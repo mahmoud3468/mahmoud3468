@@ -3,7 +3,7 @@
 - 🌱 I have a good knowledge in:
 - HTML - CSS - SASS - BOOTSTRAP - JAVASCRIPT - REACT.JS - REDUX - REST APIs - GIT & GITHUB
 
-- 👀 I'm currently looking for a job, if you're interesting just let me know.
+- 👀 I'm currently looking for a job, if you're interested just let me know.
 
 - 📫 How to reach me? / where to see my work? => check out my portfolio at => https://mahmoud-elsayed.netlify.app/
 
